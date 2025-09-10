@@ -2,6 +2,10 @@
 
 ## 📌 Subtitle  
 **Data-Driven Insights for Reducing Customer Churn and Managing Risk in the Banking Sector**
+---
+
+<img width="1540" height="863" alt="image" src="https://github.com/user-attachments/assets/dd48350b-7c44-49a4-baf4-3233cae4379d" />
+
 
 ---
 
