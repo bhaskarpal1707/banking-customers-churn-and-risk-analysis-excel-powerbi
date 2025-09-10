@@ -5,6 +5,8 @@
 ---
 
 <img width="1540" height="863" alt="image" src="https://github.com/user-attachments/assets/dd48350b-7c44-49a4-baf4-3233cae4379d" />
+<img width="1533" height="860" alt="image" src="https://github.com/user-attachments/assets/74786690-653e-4a05-9c20-1302f53ad6b8" />
+<img width="1545" height="863" alt="image" src="https://github.com/user-attachments/assets/6ac5337c-1695-470d-bb86-f5c6c2598cf4" />
 
 ---
 
@@ -88,9 +90,7 @@ Together, these datasets allow for a **360° analysis of churn behavior**, cover
 - **DAX (Data Analysis Expressions)** → Calculations and custom measures.  
 - **Power Query** → Data transformation and modeling.  
 
----
-<img width="1533" height="860" alt="image" src="https://github.com/user-attachments/assets/74786690-653e-4a05-9c20-1302f53ad6b8" />
----
+
 
 ## 🔄 Project Workflow  
 1. **Excel**  
@@ -146,10 +146,6 @@ The dashboards revealed important patterns and churn drivers:
 ### 8. **Overall Takeaways**  
 - **Top churn drivers**: Month-to-month contracts, electronic check payments, and fiber internet dissatisfaction.  
 - **Quick wins**: Promote auto-pay, incentivize contract upgrades, and enhance onboarding + service quality for fiber customers.  
-
----
-<img width="1545" height="863" alt="image" src="https://github.com/user-attachments/assets/6ac5337c-1695-470d-bb86-f5c6c2598cf4" />
----
 
 ## ✅ Final Recommendations  
 
